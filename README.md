@@ -8,7 +8,7 @@ Things you may want to cover:
 * Ruby version
 test
 * System dependencies
-
+test2
 * Configuration
 
 * Database creation
